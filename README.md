@@ -4,37 +4,49 @@
 ![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=github&logoColor=white)
 ## 💜 Sobre o Projeto
 
-TDAH & Rotina — Foco em Movimento
-Sobre o Projeto
-Site informativo e interativo sobre a importância da rotina para pessoas com TDAH, tanto crianças quanto adultos. O projeto nasceu da experiência pessoal da autora com o transtorno e da vontade de criar ferramentas acessíveis que ajudem pessoas com TDAH a estruturarem melhor o seu dia a dia.
-O design foi desenvolvido com cores pastéis, animações suaves e elementos visuais chamativos, pensado especialmente para atrair e manter a atenção de quem mais precisa: pessoas que iniciam atividades com entusiasmo mas têm dificuldade em finalizá-las por conta do hiperfoco.
+# 🌐 Landing Page — HTML & CSS
 
-Estrutura do Projeto
-O projeto é composto por um único arquivo principal chamado index.html, que concentra todo o HTML, CSS e JavaScript necessários para o funcionamento do site. Não há dependências externas além das fontes do Google Fonts, carregadas diretamente no arquivo.
-O repositório contém apenas dois arquivos:
+Página web desenvolvida em HTML e CSS como primeiro projeto de desenvolvimento front-end.
 
-index.html — arquivo principal do site
-README.md — este documento de descrição
+## 📌 Sobre o projeto
 
+Este projeto marca meu primeiro contato com desenvolvimento web. O objetivo foi construir uma landing page funcional, explorando estrutura HTML, estilização com CSS e boas práticas de layout.
 
-Conteúdo do Site
-O site está dividido nas seguintes seções:
-O que é TDAH — explicação sobre o transtorno, diferenças entre sintomas em crianças e adultos, e o potencial único de pessoas com TDAH.
-Hiperfoco — explicação do ciclo de início, perda de interesse e abandono de tarefas, e estratégias para quebrar esse padrão.
-Dicas de Rotina — estratégias práticas e acessíveis para criar e manter uma rotina funcional, com dicas específicas para crianças e adultos.
-Cronograma — modelo de cronograma diário estruturado e um construtor interativo onde o usuário pode montar o próprio horário diretamente no site.
-Ferramentas — recomendações de aplicativos de planejamento e dicas sobre planners de papel para quem prefere o método analógico.
-Checklist de Hábitos — ferramenta interativa para marcar os hábitos concluídos no dia, com barra de progresso e mensagens motivacionais.
-Sobre mim — apresentação da autora, sua história com o TDAH e a motivação por trás do projeto.
+## 🛠️ Tecnologias utilizadas
 
-Tecnologias Utilizadas
+- HTML5
+- CSS3
 
-HTML5
-CSS3 com animações, variáveis e layout responsivo
-JavaScript puro, sem frameworks externos
-Google Fonts para tipografia
+## 🚀 Como visualizar
 
+```bash
+# Clone o repositório
+git clone https://github.com/seu-usuario/landing-page-html
 
-Sobre a Autora
-Isabela, 32 anos, pedagoga natural de São Paulo. Mãe de duas filhas e diagnosticada com TDAH desde 2005. Apaixonada por preencher lacunas no processo de aprendizado, tanto o seu quanto o dos outros. Atualmente em migração para a área de Desenvolvimento.
-"Conhecimento não ocupa espaço e se o processo falhar, faça você mesmo."
+# Abra o arquivo no navegador
+Abra o arquivo index.html diretamente no seu navegador
+```
+
+Ou acesse diretamente pelo GitHub Pages (se disponível).
+
+## 💡 Estrutura do projeto
+
+```
+landing-page-html/
+│
+├── index.html       # Estrutura da página
+├── style.css        # Estilos e layout
+└── assets/          # Imagens e recursos
+```
+
+## 📚 O que aprendi
+
+- Estrutura semântica do HTML5
+- Estilização com CSS3
+- Conceitos de layout (flexbox/grid)
+- Organização de arquivos em projetos web
+
+## 👩‍💻 Autora
+
+**Isabela Teixeira**
+[LinkedIn](https://www.linkedin.com/in/isabela-teixeira) • [GitHub](https://github.com/seu-usuario)
